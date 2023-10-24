@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Poppins:ital,wght@0,100;0,400;0,500;1,200&family=Raleway&family=Roboto+Mono:wght@200;300;400&family=Roboto:wght@400;500&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+h1, h2, p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 1rem;
+}
+
+.contem{
+    width: 200px;
+    border-radius: 50%;
+    margin: 1rem;
+    align-items: center;
+    
+    
+}
+
+
+.content{
+    width: 300px;
+    border: solid 2px rgb(25, 110, 207);
+    border-radius: 3rem;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+    margin-left: 32rem;
+    margin-top: 5rem;
+}
+
+li{
+    list-style: none;
+    color: white;
+    margin-top: 1rem;
+}
+
+
+
+.txt-search{
+    width: 100px;
+    margin-left: 10rem;
+    color: antiquewhite;
+}
+.id-content{
+    color: white;
+    
+  
+}
+
+
+

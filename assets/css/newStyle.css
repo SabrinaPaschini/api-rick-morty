@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Poppins:ital,wght@0,100;0,400;0,500;1,200&family=Raleway:wght@400;500&family=Roboto+Mono:wght@200;300;400&family=Roboto:wght@400;500&family=Russo+One&display=swap');
+
+
+.container {
+    color: white;
+}
+
+.allIn {
+
+    border: solid rgb(43, 112, 177);
+    margin-bottom: 2rem;
+    align-items: center;
+}
+
+
+
+.idEname {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    color: rgb(45, 116, 182);
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px black;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 50%;
+}
+
+.idDeles {
+    color: rgb(20, 121, 161);
+    margin-left: 4rem;
+}
+
+.listaDeItens {
+    color: rgb(22, 106, 161);
+    padding: 1rem;
+    text-align: center;
+}
